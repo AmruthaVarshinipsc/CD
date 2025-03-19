@@ -141,6 +141,7 @@ int main() {
 
 
 OUTPUT:
+
 Enter any String(Append with $): i+i*i$
 Stack   Input   Output
 
@@ -162,4 +163,4 @@ $HU     $       POP
 $H      $       U->¯
 $       $       H->¯
 
- Given String is not accepted
+ Given String is accepted
